@@ -40,7 +40,7 @@ Currently building an urban traffic congestion prediction system using CNN-LSTM 
 
 - **Power BI Dashboards for Smart Cities**
   - Urban data visualization for smarter resource planning.
-
+<!--
 ---
 
 ## 🏆 Achievements
@@ -49,7 +49,7 @@ Currently building an urban traffic congestion prediction system using CNN-LSTM 
 - National hackathon finalist (Smart Mobility)
 - CodeChef competitive programmer (Placement Prep)
 - Projects deployed on GCP, Vercel & Railway
-<!--
+
 ---
 
 ## 📈 GitHub Stats
