@@ -49,14 +49,14 @@ Currently building an urban traffic congestion prediction system using CNN-LSTM 
 - National hackathon finalist (Smart Mobility)
 - CodeChef competitive programmer (Placement Prep)
 - Projects deployed on GCP, Vercel & Railway
-
+<!--
 ---
 
 ## 📈 GitHub Stats
 
 ![Suneeth12's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suneeth12&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suneeth12&layout=compact)
-
+-->
 ---
 
 ## 📬 Contact & Links
